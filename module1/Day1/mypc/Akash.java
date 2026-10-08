@@ -1,4 +1,4 @@
-package mypc;
+package Day1.mypc;
 
 public class Akash {
     public static void show(){
