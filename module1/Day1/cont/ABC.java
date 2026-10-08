@@ -1,4 +1,4 @@
-package Day1.mypc.cont;
+package Day1.cont;
 
 public class ABC {
     public static void main(String[] args) {
@@ -10,6 +10,6 @@ public class ABC {
         }
     }
     public void show(){
-        System.out.println("this fun from Day1.mypc.cont.ABC.java");
+        System.out.println("this fun from Day1.Day1.cont.ABC.java");
     }
 }

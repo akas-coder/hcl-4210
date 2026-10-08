@@ -1,6 +1,6 @@
 package Day1.mypc;
 
-import Day1.mypc.cont.ABC;
+import Day1.cont.ABC;
 
 public class Ce {
     public static void main(String[] args) {

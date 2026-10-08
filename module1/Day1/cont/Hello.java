@@ -1,4 +1,4 @@
-package Day1.mypc.cont;
+package Day1.cont;
 import Day1.mypc.Akash;
 public class Hello {
     void show1(){
