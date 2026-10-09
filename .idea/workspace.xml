@@ -32,9 +32,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ABC.executor": "Run",
+    "Application.AbstractionExample.executor": "Run",
     "Application.Akash.executor": "Run",
     "Application.Ce.executor": "Run",
     "Application.Child.executor": "Run",
+    "Application.Child2.executor": "Run",
     "Application.ConstructorOverloading.executor": "Run",
     "Application.DemoConstructor.executor": "Run",
     "Application.Hello.executor": "Run",
@@ -47,6 +49,60 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Day1" />
+      <recent name="cont" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Child2">
+    <configuration name="AbstractionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.AbstractionExample" />
+      <module name="HCL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.Child" />
+      <module name="HCL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Child2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day3.Child2" />
+      <module name="HCL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Child2" />
+        <item itemvalue="Application.Child" />
+        <item itemvalue="Application.AbstractionExample" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="898357b2-1f4b-4a76-b21d-2f4d385149dd" name="Changes" comment="" />
@@ -71,5 +127,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fghj" />
     <option name="LAST_COMMIT_MESSAGE" value="fghj" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/module1/Day3/AbstractionExample.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
