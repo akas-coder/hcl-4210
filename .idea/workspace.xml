@@ -37,6 +37,7 @@
     "Application.Ce.executor": "Run",
     "Application.Child.executor": "Run",
     "Application.Child2.executor": "Run",
+    "Application.CollectionsExample.executor": "Run",
     "Application.ConstructorOverloading.executor": "Run",
     "Application.DemoConstructor.executor": "Run",
     "Application.Hello.executor": "Run",
@@ -55,7 +56,7 @@
       <recent name="cont" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Child2">
+  <component name="RunManager">
     <configuration name="AbstractionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day3.AbstractionExample" />
       <module name="HCL" />
