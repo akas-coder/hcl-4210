@@ -29,33 +29,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ABC.executor": "Run",
-    "Application.AbstractionExample.executor": "Run",
-    "Application.Akash.executor": "Run",
-    "Application.Ce.executor": "Run",
-    "Application.Child.executor": "Run",
-    "Application.Child2.executor": "Run",
-    "Application.CollectionsExample.executor": "Run",
-    "Application.ConstructorOverloading.executor": "Run",
-    "Application.CustomSortingByAge.executor": "Run",
-    "Application.DemoConstructor.executor": "Run",
-    "Application.Hello.executor": "Run",
-    "Application.ImplementPriorityQueue.executor": "Run",
-    "Application.ImplementQueue.executor": "Run",
-    "Application.ListExample.executor": "Run",
-    "Application.MapImplementation.executor": "Run",
-    "Application.PublicConstructor.executor": "Run",
-    "Application.StackExample.executor": "Run",
-    "Application.SuperCalling.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ABC.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AbstractionExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Akash.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ce.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Child.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Child2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionsExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConstructorOverloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomSortingByAge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoConstructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ImplementPriorityQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ImplementQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapImplementation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PublicConstructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SuperCalling.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Day1" />
@@ -104,9 +104,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AbstractionExample" />
         <item itemvalue="Application.Child2" />
         <item itemvalue="Application.Child" />
-        <item itemvalue="Application.AbstractionExample" />
       </list>
     </recent_temporary>
   </component>

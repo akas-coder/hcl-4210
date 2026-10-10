@@ -1,10 +1,9 @@
 package Day4;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-class Student{
+class Student implements Comparable<Student>{
     String name;
     int rno;
     int age;
@@ -15,11 +14,17 @@ class Student{
         this.age=age;
         this.marks=marks;
     }
+    @Override
     public String toString(){
         return name+" "+rno+" "+age+" "+marks;
     }
+
+    @Override
+    public int compareTo(Student o){
+        return this.marks-o.marks;
+    }
 }
-public class CustomSortingByAge {
+public class SortUsingComparable {
     public static void main(String[] args) {
         List<Student> list=new ArrayList<>();
         Student s1=new Student("Akash",1,20,80);
@@ -42,12 +47,9 @@ public class CustomSortingByAge {
         list.add(s8);
         list.add(s9);
         list.add(s10);
-        //Sorting Student on the basis of marks
 
-        Collections.sort(list,(a,b)->Integer.compare(a.marks,b.marks));
+        Collections.sort(list);
         for(int i=0;i<10;i++)
         System.out.println(list.get(i));
-
-
     }
 }
