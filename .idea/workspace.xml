@@ -41,6 +41,7 @@
     "Application.ConstructorOverloading.executor": "Run",
     "Application.DemoConstructor.executor": "Run",
     "Application.Hello.executor": "Run",
+    "Application.ImplementPriorityQueue.executor": "Run",
     "Application.ImplementQueue.executor": "Run",
     "Application.ListExample.executor": "Run",
     "Application.PublicConstructor.executor": "Run",
