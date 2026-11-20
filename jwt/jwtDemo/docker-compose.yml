@@ -22,7 +22,7 @@ services:
       SPRING_DATASOURCE_PASSWORD: ${MYSQL_ROOT_PASSWORD}
       APP_JWT_SECRET: ${JWT_SECRET}
       APP_JWT_EXPIRATION_MS: 3600000
-    cd  
+     
   frontend:
     build: ./frontend
     container_name: jwt-frontend
