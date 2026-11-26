@@ -21,7 +21,7 @@ SELECT * FROM students
 WHERE hometown IN ('Delhi', 'Noida')
 ORDER BY age DESC;
 
--- 6. Three oldest students
+-- 6. Three oldest student from students table;
 SELECT * FROM students
 ORDER BY age DESC
 LIMIT 3;
